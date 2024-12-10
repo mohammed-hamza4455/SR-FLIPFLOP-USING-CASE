@@ -1,4 +1,6 @@
-# SR-FLIPFLOP-USING-CASE
+# EXP6:SR-FLIPFLOP
+## NAME : MOHAMMMED HAMZA
+## REG NO: 24900511
 
 **AIM:**
 
@@ -37,12 +39,15 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 /* write all the steps invloved */
 
 **PROGRAM**
+![sr daigram](https://github.com/user-attachments/assets/ba3abea2-74eb-42a7-8afa-ddb34ddb3d04)
 
 /* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
+![sr chart](https://github.com/user-attachments/assets/5969fe89-9f12-4c91-a90b-de600a47531e)
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+![sr waveform](https://github.com/user-attachments/assets/bec917ef-45aa-4aa1-a7a0-a600414b45b6)
 
 **RESULTS**
